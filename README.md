@@ -8,7 +8,8 @@
 <h2> 課程筆記區 </h2>
 
 <h2> 作業連結區 </h2>
-<a href="https://duckucy.github.io/My-page/">9/12 自我介紹</a>
+<a href="https://duckucy.github.io/My-page/">HW1) 自我介紹網頁</a>
+<a href="https://youtu.be/ahgEmTRqkUc">HW2) MySQL 資料庫建立</a>
 
 <h2> 專題連結區 </h2>
 
