@@ -10,6 +10,7 @@
 <h2> 作業連結區 </h2>
 <a href="https://duckucy.github.io/My-page/">HW1. 自我介紹網頁</a><br>
 <a href="https://youtu.be/ahgEmTRqkUc">HW2. MySQL 資料庫建立</a>
+<a href="https://duckucy.github.io/112-1-Web/Web_hw3/index.html">HW3. JavaScript小程式</a>
 
 <h2> 專題連結區 </h2>
 
